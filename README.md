@@ -4,7 +4,7 @@
 Real-time MBTA buss movement on the map.<br/>
 
 **Improvements:**<br/>
-Changed the style of the map into the ligher version for better marker contrast.<br/>
+Changed the style of the map into the lighter version for better marker contrast.<br/>
 The markers are loading after the "Start Tracking" button is pushed.<br/>
 
 ## How To Run:
