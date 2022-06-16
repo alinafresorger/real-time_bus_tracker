@@ -1,5 +1,5 @@
 //   ADD YOUR MAPBOX ACCESS TOKEN HERE:
-mapboxgl.accessToken = "";
+mapboxgl.accessToken = "pk.eyJ1IjoiYWZyZXNvcmdlciIsImEiOiJjbDN6NjEyeGYwMW9vM2RvZno4cW41ZXdiIn0.AMMBtRy0m_4QZejb73o52w";
 
 var map;
 var markers = [];
